@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "e82a66feaea15f85",
+    "type": "split",
+    "children": [
+      {
+        "id": "f35ccc384712cd68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daacd3657f9b778c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bee521a188a5a526",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c03fca4c61b8172",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb6c27d5aa853781",
+    "type": "split",
+    "children": [
+      {
+        "id": "3304edc9975e478c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25b31e6acfa1ec13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "6a433650473c2780",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "aa00024199687f0e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff6c046f7f90e082",
+    "type": "split",
+    "children": [
+      {
+        "id": "516a2cd0fc3d588a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12861f3fe9ec5546",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "4d28e6c256f9cd69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "6da0d0fb20c47a43",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "fddd7d678025ed08",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "06446990f03f0c42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "daacd3657f9b778c",
+  "lastOpenFiles": [
+    "Сборка/Docker/Слой.md",
+    "Сборка/Docker/Пример docker compose.md",
+    "Сборка/Docker Swarm/Docker Swarm.md",
+    "Сборка/Docker/Образ и контейнер.md",
+    "Сборка/Docker/Многоступенчатая сборка (Multi-stage builds).md",
+    "Сборка/Docker/Минимизация слоев.md",
+    "Сборка/Docker/Версии образов slim и alpine.md",
+    "Сборка/Docker/Важные моменты.md",
+    "Сборка/Docker/Volumes.md",
+    "Сборка/Docker/Users.md",
+    "Сборка/Docker/Named Volumes.md",
+    "Сборка/Docker/Dockerfile.md",
+    "Сборка/Docker/Docker host OS.md",
+    "Сборка/Docker/Docker Compose.md",
+    "Сборка/Docker Swarm",
+    "Сборка/Docker",
+    "Сборка",
+    "Тестирование/чеклист и тест-кейс.md",
+    "Тестирование/тест-план.md",
+    "Тестирование/валидация и верификация.md",
+    "Тестирование/примеры серьезного, но не приоритетного бага.md",
+    "Тестирование/баг-репорт.md",
+    "Тестирование/Bug, Error, Failure, Fault.md",
+    "Тестирование/Entry и Exit Criteria.md",
+    "Тестирование/парадокс пестицида.md",
+    "Тестирование/испытание на основе рисков.md",
+    "Тестирование/тестирование безопасности.md",
+    "Тестирование/Системное, приемочное и e2e.md",
+    "Тестирование/Traceability Matrix.md",
+    "Тестирование/image-12.png",
+    "Тестирование/Методология разработки",
+    "Тестирование",
+    "Клиент-сервер/soap",
+    "Клиент-сервер/rest",
+    "Клиент-сервер/WebSocket",
+    "Клиент-сервер/RPC",
+    "Клиент-сервер/GraphQL",
+    "image-12.png"
+  ]
+}
