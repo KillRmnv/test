@@ -1,0 +1,1 @@
+The `ROLLBACK` command is used to undo all changes made in the current transaction. It is used when an error occurs or when the desired changes cannot be completed. The database will revert to the state it was in before the [`BEGIN TRANSACTION`](https://www.geeksforgeeks.org/questions/which-sql-statement-is-used-to-begin-a-transaction-1/) was executed.

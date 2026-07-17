@@ -1,0 +1,1 @@
+The `COMMIT` command is used to save all changes made during the current transaction to the database. Once a transaction is committed, the changes are permanent.
