@@ -11,10 +11,14 @@
             "id": "8c03fca4c61b8172",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Relational/sql/JOIN vs WHERE с несколькими таблицами.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JOIN vs WHERE с несколькими таблицами"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Databases/Relational/sql/JOIN vs WHERE с несколькими таблицами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для JOIN vs WHERE с несколькими таблицами"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Databases/Relational/sql/JOIN vs WHERE с несколькими таблицами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из JOIN vs WHERE с несколькими таблицами"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Databases/Relational/sql/JOIN vs WHERE с несколькими таблицами.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура JOIN vs WHERE с несколькими таблицами"
             }
           }
         ]
@@ -206,7 +213,7 @@
     "Databases/Relational/sql/Postgres",
     "Databases/Relational/sql/Pasted image 20250910153611.png",
     "Databases/Relational/sql/LIKE.md",
-    "Databases/Relational/sql/JOIN vs \"WHERE с несколькими таблицами\".md",
+    "Databases/Relational/sql/JOIN vs WHERE с несколькими таблицами.md",
     "Databases/Relational/sql/COMMIT.md",
     "Databases/Relational/sql",
     "Databases/Relational/image-17.png",
