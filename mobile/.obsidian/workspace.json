@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/Relational/sql/JOIN vs WHERE с несколькими таблицами.md",
+                "file": "Тестирование/Тестирование Redis (кэша) — для QA собеседования.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JOIN vs WHERE с несколькими таблицами"
+              "title": "Тестирование Redis (кэша) — для QA собеседования"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/Relational/sql/JOIN vs WHERE с несколькими таблицами.md",
+                "file": "Тестирование/Тестирование Redis (кэша) — для QA собеседования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,6 +187,10 @@
   },
   "active": "8c03fca4c61b8172",
   "lastOpenFiles": [
+    "Тестирование/Тестирование брокеров сообщений (Message Brokers) — Kafka, RabbitMQ и др..md",
+    "Тестирование/Тестирование Redis (кэша) — для QA собеседования.md",
+    "Тестирование/Метрики в QA.md",
+    "Databases/Relational/sql/JOIN vs WHERE с несколькими таблицами.md",
     "Apache Kafka/репликация.md",
     "Apache Kafka/подводные камни.md",
     "Apache Kafka/Экосистема.md",
@@ -210,11 +214,7 @@
     "Apache Kafka/Rebalance.md",
     "Apache Kafka",
     "Тестирование/этапы.md",
-    "Тестирование/Код/Антипаттерны.md",
     "Тестирование/Код",
-    "Тестирование/Фреймворки/инструкции.md",
-    "Тестирование/Фреймворки/assertions.md",
-    "Тестирование/Фреймворки/Testcontainers.md",
     "Тестирование/Фреймворки",
     "Тестирование/Методология разработки",
     "Тестирование/image-12.png",
